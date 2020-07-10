@@ -23,3 +23,9 @@
 -(--) Uso de una palabra
 -Git --global user .name Configuracion del usuario de git (user.email configuracion de email)
 -Git log Ver los commits que fueron echos y sus cambios
+Git branch Creacion de rama
+Git push Envio del proyecto al repositorio remoto
+Git fetch Trae el archivo al repositorio local
+Git merge Trae los archivos del repositorio local al directorio de trabajo
+Git pull Hace los 2 conceptos al mismo tiempo, trae los archivos del repositorio remoto al locas y clona al directorio de trabajo
+Git commit -am Envia directo los archivos al commit sin el uso del ADD.
