@@ -1,0 +1,25 @@
+-CD Cambiar directorio
+-PWD Carpeta actual
+-MKDIR Creacion de carpeta
+-HISTORY Historial de comando anteriores
+-TOUCH Creador de archivos
+-CAT Muestra lo que tiene el archivo
+-RM Remueve Archivos
+---Help Lista de comandos
+-Ls Lista de archivos dentro de la carpeta
+-Ls -a Grupo de archivos sin estar listados
+-Ls -la Grupo de arvhivos listados y encondidos
+-Git add Archivo en espera de repositorio
+-Git Commit Comando para envio a repositorio (Cada punto de guardado son versiones nuevas al arvhico)
+-Git Commit -m "" Envio a repositorio con mensaje
+-Git Checkout Traer los puntos guardados que hicites despues de averlo llevado al repositorio
+-Git init Iniciar con tu repositoriio
+-Git status Estado de un archivo si esta con cambios
+-Git rm --cached borrar un archivo dentro de la memoria ram (cached solo esta en la ram, todavia no esta en la base de datos )
+-Git config Configuraciones de git
+-Git config --list Configuracion por defectado y partes que le faltan
+-Git config  --list --show-origin Muestra donde estan las configuraciones guardadas (caso avanzado)
+-(-) Uso rapido de un comando
+-(--) Uso de una palabra
+-Git --global user .name Configuracion del usuario de git (user.email configuracion de email)
+-Git log Ver los commits que fueron echos y sus cambios
