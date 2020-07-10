@@ -14,7 +14,7 @@
 -Git Commit -m "" Envio a repositorio con mensaje
 -Git Checkout Traer los puntos guardados que hicites despues de averlo llevado al repositorio
 -Git init Iniciar con tu repositoriio
--Git status Estado de un archivo si esta con cambios
+-Git status Estado de un archivo si esta con cambios y cambio de rama
 -Git rm --cached borrar un archivo dentro de la memoria ram (cached solo esta en la ram, todavia no esta en la base de datos )
 -Git config Configuraciones de git
 -Git config --list Configuracion por defectado y partes que le faltan
