@@ -32,6 +32,6 @@ Git pull Hace los 2 conceptos al mismo tiempo, trae los archivos del repositorio
 Git commit -am Envia directo los archivos al commit sin el uso del ADD.
 SSH comando para llaves
 Git remote origin add comando para url
-Git push master --allow-unrelated-histories Funcion de unir los archivos de este git al otro (merch).
-Git pull master Trae los archivos del github.
-Git push master lleva los archivos.
+Git push origin master --allow-unrelated-histories Funcion de unir los archivos de este git al otro (merch).
+Git pull origin master Trae los archivos del github.
+Git push origin master lleva los archivos.
